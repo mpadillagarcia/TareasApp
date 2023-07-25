@@ -11,3 +11,5 @@ Key features:
 - Dynamism: Tasks are displayed dynamically, reflecting updates automatically in the interface without the need to reload the page.
 
 This repository serves as an excellent foundation for learning web development with Node.js and the implementation of software design patterns like MVC or MVP. Through this task management application, developers can familiarize themselves with the best practices and techniques used in modern web development.
+
+**IT IS NECESSARY TO INCLUDE THE "NODE_MODULES" FOLDER IN THE DIRECTORY ADDITIONALLY, WHICH CONTAINS THE REQUIRED FILES TO RUN THE APPLICATION ON A LOCAL SERVER.**
